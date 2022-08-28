@@ -4,7 +4,7 @@
 <h2 align="center">About</h3>
 In progress...
 <h2 align="center">Contacts</h3>
-<ul>
+<ul align="center">
   <li>Email: eclipsemod-post@yandex.ru</li>
   <li>VK: https://vk.com/daniel.volk</li>
   <li>Telegram: @DanielKomnin</li>

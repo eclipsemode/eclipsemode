@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniel</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="img" /></h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Frontend+developer%2C+Program+engineering+student." alt="Typing SVG" /></h3>
-<h2 align="center">About</h3>
+<h2 align="center">My web resume</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&width=100&lines=%E2%86%93+%E2%86%93+%E2%86%93" alt="Typing SVG" /></a>
 In progress...
 <h2 align="center">Contacts</h3>
 <ul>

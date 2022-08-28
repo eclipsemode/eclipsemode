@@ -4,9 +4,9 @@
 <h2 align="center">About</h3>
 In progress...
 <h2 align="center">Contacts</h3>
-Email: eclipsemod-post@yandex.ru
-VK: https://vk.com/daniel.volk
-Telegram: @DanielKomnin
+<p align="center">Email: eclipsemod-post@yandex.ru</p>
+<p align="center">VK: https://vk.com/daniel.volk</p>
+<p align="center">Telegram: @DanielKomnin</p>
 
 <!--
 **eclipsemode/eclipsemode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

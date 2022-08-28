@@ -2,7 +2,7 @@
   "name": "eclipsemode",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eclipsemode.github.io/",
+  "homepage": "https://eclipsemode.github.io/eclipsemode/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",

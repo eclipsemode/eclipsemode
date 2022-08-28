@@ -2,13 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="img" /></h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Frontend+developer%2C+Program+engineering+student." alt="Typing SVG" /></h3>
 <h2 align="center">My web resume</h3>
-https://eclipsemode.github.io/eclipsemode/
+<p align="center">https://eclipsemode.github.io/eclipsemode/</p>
 <h2 align="center">Contacts</h3>
-<ul>
-  <li>Email: eclipsemod-post@yandex.ru</li>
-  <li>VK: https://vk.com/daniel.volk</li>
-  <li>Telegram: @DanielKomnin</li>
-  </ul>
+<p align="center">* Email: eclipsemod-post@yandex.ru</p>
+<p align="center">* VK: https://vk.com/daniel.volk</p>
+<p align="center">* Telegram: @DanielKomnin</p>
 
 
 <!--

@@ -23,6 +23,9 @@ function App() {
             <div><span className="param">  familiarWith</span>: [</div>
             <div>    <span className="string">'Node.js'</span>,</div>
             <div>    <span className="string">'Express'</span>,</div>
+            <div>    <span className="string">'Nest.js'</span>,</div>
+            <div>    <span className="string">'Next.js'</span>,</div>
+            <div>    <span className="string">'Docker'</span>,</div>
             <div>    <span className="string">'C'</span></div>
             <div>  ],</div>
             <br/>
@@ -45,7 +48,7 @@ function App() {
             <div>    <span className="string">'Frontend Developer'</span></div>
             <div>  ],</div>
             <br/>
-            <div><span className="param">mail</span>: <span className="string">'eclipsemod-post@yandex.ru'</span>,</div>
+            <div><span className="param">mail</span>: <span className="string">'eclipsemod555@gmail.com'</span>,</div>
             <div><span className="param">github</span>: <span className="string">'https://github.com/eclipsemode'</span>,</div>
             <div><span className="param">telegram</span>: <span className="string">'@DanielKomnin'</span></div>
             &#125;

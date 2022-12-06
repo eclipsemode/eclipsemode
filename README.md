@@ -4,7 +4,7 @@
 <h2 align="center">My web resume</h3>
 <p align="center">https://eclipsemode.github.io/eclipsemode/</p>
 <h2 align="center">Contacts</h3>
-<p align="center">* Email: eclipsemod-post@yandex.ru</p>
+<p align="center">* Email: eclipsemod555@gmail.com</p>
 <p align="center">* VK: https://vk.com/daniel.volk</p>
 <p align="center">* Telegram: @DanielKomnin</p>
 

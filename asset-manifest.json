@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/eclipsemode/static/css/main.3193f36d.css",
-    "main.js": "/eclipsemode/static/js/main.83d8c018.js",
+    "main.js": "/eclipsemode/static/js/main.0ee974eb.js",
     "index.html": "/eclipsemode/index.html",
     "main.3193f36d.css.map": "/eclipsemode/static/css/main.3193f36d.css.map",
-    "main.83d8c018.js.map": "/eclipsemode/static/js/main.83d8c018.js.map"
+    "main.0ee974eb.js.map": "/eclipsemode/static/js/main.0ee974eb.js.map"
   },
   "entrypoints": [
     "static/css/main.3193f36d.css",
-    "static/js/main.83d8c018.js"
+    "static/js/main.0ee974eb.js"
   ]
 }
